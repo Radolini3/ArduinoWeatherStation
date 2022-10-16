@@ -9,4 +9,4 @@ Main features of the project:<br />
 
 I designed a simple PCB on which I placed the components of the station 
 
-![alt text](http://url/to/img.png)
+![IMG_20220327_183709](https://user-images.githubusercontent.com/80394418/196057894-dfb46082-67c6-4d88-9053-db732a1940c3.jpg)
