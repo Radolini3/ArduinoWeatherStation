@@ -7,3 +7,6 @@ Main features of the project:<br />
   - Displaying current date and time 
   - By the push of the button you can switch LCD information shown from temperature/pressure to time/date 
 
+I designed a simple PCB on which I placed the components of the station 
+
+![alt text](http://url/to/img.png)
